@@ -3,7 +3,7 @@
 This repository contains rotating GIFs of the molecular orbitals of the Si<sub>4</sub> tetrahedron.
 
 
-## Description
+### Description
 
 The folders are arranged according to the names of the irreducible representation to which the molecular orbitals belong.
 
