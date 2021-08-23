@@ -21,4 +21,4 @@ The files in this repository are curated and maintained by
 
 "Chemical Interpretation of Charged Point Defects in Semiconductors: A Case Study of Mg<sub>2</sub>Si"
 
-M. Y. Toriyama, M. K. Brod, and G. J. Snyder (2021).
+M. Y. Toriyama, M. K. Brod, and G. J. Snyder, *ChemRxiv* (2021). DOI: [10.33774/chemrxiv-2021-729bm](https://doi.org/10.33774/chemrxiv-2021-729bm)
