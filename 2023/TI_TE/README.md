@@ -1,6 +1,6 @@
 # Are Topological Insulators Promising Thermoelectrics?
 
-This repository contains rotating GIFs of the molecular orbitals of the Si<sub>4</sub> tetrahedron.
+This repository contains raw data from first-principles Boltzmann transport calculations on Bi<sub>2</sub>Te<sub>3</sub>, Bi<sub>2</sub>Se<sub>3</sub>, and ZrBeSi-type ABX phases.
 
 
 ### Description
