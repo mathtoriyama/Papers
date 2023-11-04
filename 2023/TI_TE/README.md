@@ -5,6 +5,12 @@ This repository contains data from first-principles Boltzmann transport calculat
 
 ### Description
 
+The Excel sheets contain the following data: 
+* M<sub>0</sub> parameter
+* Lattice thermal conductivity (kappa_L)
+* Maximum *zT* for *n*- and *p*-type (max_zT_n, max_zT_p)
+* 
+
 The folders are arranged according to the names of the irreducible representation to which the molecular orbitals belong.
 
 Note that there are two sets of t<sub>2</sub> states, which are organized into the lower-energy states and the higher-energy states.
@@ -12,9 +18,7 @@ Note that there are two sets of t<sub>2</sub> states, which are organized into t
 
 ### Authors
 
-The files in this repository are curated and maintained by
-
-* [Michael Toriyama](mailto:MichaelToriyama2024[at]u[dot]northwestern[dot]edu)
+The files in this repository are curated and maintained by [Michael Toriyama](mailto:MichaelToriyama2024[at]u[dot]northwestern[dot]edu).
 
 
 ### Cite
