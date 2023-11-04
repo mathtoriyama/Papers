@@ -9,11 +9,10 @@ The Excel sheets contain the following data:
 * M<sub>0</sub> parameter
 * Lattice thermal conductivity (kappa_L)
 * Maximum *zT* for *n*- and *p*-type (max_zT_n, max_zT_p)
-* 
-
-The folders are arranged according to the names of the irreducible representation to which the molecular orbitals belong.
-
-Note that there are two sets of t<sub>2</sub> states, which are organized into the lower-energy states and the higher-energy states.
+* Seebeck effective mass (seebeck_mass_n, seebeck_mass_p)
+* Band effective mass (band_mass_n, band_mass_p)
+* Conductivity effective mass (cond_mass_n, cond_mass_p)
+* Weighted mobility (mu_w_n, mu_w_p)
 
 
 ### Authors
