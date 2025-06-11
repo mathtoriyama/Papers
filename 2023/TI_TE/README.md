@@ -24,6 +24,5 @@ The files in this repository are curated and maintained by [Michael Toriyama](ma
 
 "Are Topological Insulators Promising Thermoelectrics?"
 
-<!--
-M. Y. Toriyama and G. J. Snyder, *ChemRxiv* (2023). DOI: [10.33774/chemrxiv-2021-729bm](https://doi.org/10.33774/chemrxiv-2021-729bm)
--->
+M. Y. Toriyama and G. J. Snyder, *Mater. Horiz.*, **11**, 1188 (2024). DOI: [10.1039/D3MH01930F](https://pubs.rsc.org/en/content/articlelanding/2024/mh/d3mh01930f)
+
